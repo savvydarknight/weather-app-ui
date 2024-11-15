@@ -19,6 +19,9 @@ To get started, clone the repository and run the setup script.
 
 - [Run Project here](https://this-weather-app-ui.netlify.app/)
 
+  -If you like it
+  [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adityankaran)
+
 ## License
 
 This project is licensed under the [MIT License](./LICENSE).
