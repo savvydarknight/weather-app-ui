@@ -131,7 +131,7 @@ footer a:hover {
   text-decoration: none;
 }
 
-@media (max-width: 798px) {
+@media screen and (max-width: 768px) {
   #city-input {
     width: 100%;
   }
