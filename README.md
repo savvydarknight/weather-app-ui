@@ -4,7 +4,7 @@
 
 ## Features
 
-- [View the Source Code](./weather app ui)
+- [View the Source Code](https://github.com/savvydarknight/weather-app-ui/tree/main/weather%20app%20ui)
 - [Documentation](#)
 - ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 
