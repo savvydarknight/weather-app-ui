@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Weather App</title>
+    <link
+      rel="shortcut icon"
+      href="https://cdn0.iconfinder.com/data/icons/holo-style-pack-2-0-1/512/weather_app.png"
+      type="image"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="search-box">
+        <input type="text" id="city-input" placeholder="Enter a city.." />
+        <button id="search-btn">Search</button>
+      </div>
+      <div class="error">
+        <p>Invalid city name! Please try again</p>
+      </div>
+      <div class="weather-info">
+        <div class="weather-info-main">
+          <h1 id="city-name">----</h1>
+          <p id="weather-details">---- ----, <span>----</span></p>
+          <p id="humidity-wind">
+            Humidity: <span id="humidity">---%</span>, Wind:
+            <span id="wind-speed">----km/h</span>
+          </p>
+        </div>
+        <div class="temperature">
+          <span id="weather-icon">--</span>
+          <span id="temp-value">--</span><sup>°C</sup>
+        </div>
+      </div>
+      <footer>
+        <p>
+          This project was coded by
+          <a href="https://cictehro.netlify.app">He who must not be named</a>
+          and is <a href="https://github.com/savvydarknight">on GitHub</a> and
+          <a
+            href="https://this-weather-app-ui.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+            >hosted on Netlify</a
+          >
+        </p>
+      </footer>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
