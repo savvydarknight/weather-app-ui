@@ -10,7 +10,7 @@
 
 ## Table of Contents
 
-1. [Getting Started](#getting-started)
+1. [Getting Started](#image)
 2. [License](#license)
 
 ## Getting Started
